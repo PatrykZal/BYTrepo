@@ -1,0 +1,14 @@
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\bin\Debug\net7.0\CalculatorDesignPattern.exe
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\bin\Debug\net7.0\CalculatorDesignPattern.deps.json
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\bin\Debug\net7.0\CalculatorDesignPattern.runtimeconfig.json
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\bin\Debug\net7.0\CalculatorDesignPattern.dll
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\bin\Debug\net7.0\CalculatorDesignPattern.pdb
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\obj\Debug\net7.0\CalculatorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\obj\Debug\net7.0\CalculatorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\obj\Debug\net7.0\CalculatorDesignPattern.AssemblyInfo.cs
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\obj\Debug\net7.0\CalculatorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\obj\Debug\net7.0\CalculatorDesignPattern.dll
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\obj\Debug\net7.0\refint\CalculatorDesignPattern.dll
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\obj\Debug\net7.0\CalculatorDesignPattern.pdb
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\obj\Debug\net7.0\CalculatorDesignPattern.genruntimeconfig.cache
+C:\Users\paddy\OneDrive\Pulpit\BYT56\CalculatorDesignPattern\CalculatorDesignPattern\obj\Debug\net7.0\ref\CalculatorDesignPattern.dll

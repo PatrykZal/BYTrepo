@@ -1,0 +1,14 @@
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\bin\Debug\net7.0\PizzaBuilderPattern.exe
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\bin\Debug\net7.0\PizzaBuilderPattern.deps.json
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\bin\Debug\net7.0\PizzaBuilderPattern.runtimeconfig.json
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\bin\Debug\net7.0\PizzaBuilderPattern.dll
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\bin\Debug\net7.0\PizzaBuilderPattern.pdb
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\obj\Debug\net7.0\PizzaBuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\obj\Debug\net7.0\PizzaBuilderPattern.AssemblyInfoInputs.cache
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\obj\Debug\net7.0\PizzaBuilderPattern.AssemblyInfo.cs
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\obj\Debug\net7.0\PizzaBuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\obj\Debug\net7.0\PizzaBuilderPattern.dll
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\obj\Debug\net7.0\refint\PizzaBuilderPattern.dll
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\obj\Debug\net7.0\PizzaBuilderPattern.pdb
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\obj\Debug\net7.0\PizzaBuilderPattern.genruntimeconfig.cache
+C:\Users\paddy\OneDrive\Pulpit\BYT56\PizzaBuilderPattern\PizzaBuilderPattern\obj\Debug\net7.0\ref\PizzaBuilderPattern.dll
